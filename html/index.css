@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 .color-0{color: #ffffff;}
 .color-1{color: #ff4444;}
@@ -24,7 +24,7 @@ em {
 }
 
 #app {
-  font-family: Oswald;
+  font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: white;
